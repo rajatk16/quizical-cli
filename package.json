@@ -1,0 +1,22 @@
+{
+  "name": "quizical-cli",
+  "version": "0.0.1",
+  "description": "CLI that asks questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "url",
+    "url": "https://github.com/rajatk16/quizical-cli.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Rajat S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajatk16/quizical-cli/issues"
+  },
+  "homepage": "https://github.com/rajatk16/quizical-cli#readme"
+}
