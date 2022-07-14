@@ -1,11 +1,13 @@
 {
   "name": "quizical-cli",
   "version": "0.0.1",
+  "type": "module",
   "description": "CLI that asks questions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": "./index.js",
   "repository": {
     "type": "url",
     "url": "https://github.com/rajatk16/quizical-cli.git"
@@ -18,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/rajatk16/quizical-cli/issues"
   },
-  "homepage": "https://github.com/rajatk16/quizical-cli#readme"
+  "homepage": "https://github.com/rajatk16/quizical-cli#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.1"
+  }
 }

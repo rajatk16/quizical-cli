@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What superhero was born with the Curse of Kordax?",
+    "answer": "Aquaman",
+    "choices": ["Hawkman", "Aquaman", "Ghost Rider", "Captain Marvel"]
+  },
+  {
+    "question": "What super villain was created when Emil Blonsky accidentally exposed himself to a concentrated burst of gamma rays?",
+    "answer": "Abomination",
+    "choices": ["Doc Samson", "The Leader", "Abomination", "Bi-Beast"]
+  },
+  {
+    "question": "What superhero grew up on the planet Tamaran?",
+    "answer": "Starfire",
+    "choices": ["Ultra Boy", "The Silver Surfer", "Starfire", "Hawkgirl"]
+  },
+  {
+    "question": "Edwin Jarvis serves as butler to what superteam?",
+    "answer": "Avengers",
+    "choices": ["Teen Titans", "Avengers", "Fantastic Four", "Justice League"]
+  },
+  {
+    "question": "Which of these superheroines was inhabited by the soul of an ancient Egyptian princess after attempting suicide?",
+    "answer": "Hawkgirl",
+    "choices": ["Black Canary", "Hawkgirl", "Wonder Woman", "Huntress"]
+  },
+  {
+    "question": "Who was the first costumed superhero?",
+    "answer": "The Phantom",
+    "choices": ["The Phantom", "Crimson Avenger", "Superman", "Arrow"]
+  },
+  {
+    "question": "Who was Elvis Presley's favorite superhero?",
+    "answer": "Captain Marvel Jr.",
+    "choices": ["The Green Hornet", "Batman", "Captain Marvel, Jr.", "The Silver Surfer"]
+  },
+  {
+    "question": "Who is Luke Cage's best friend and longtime partner in crime-fighting?",
+    "answer": "Iron Fist",
+    "choices": ["Daredevil", "Human Torch", "Doctor Strange", "Iron Fist"]
+  },
+  {
+    "question": "What superteam includes a sentient tree-like creature?",
+    "answer": "Guardians of the Galaxy",
+    "choices": ["Squadron Supreme", "Guardians of the Galaxy", "Doom Patrol", "Suicide Squad"]
+  },
+  {
+    "question": "What superhero gained his powers after being exposed to the Orb of Ra?",
+    "answer": "Metamorpho",
+    "choices": ["Hawkman", "Doctor Strange", "Iron Fist", "Metamorpho"]
+  },
+  {
+    "question": "T'Challa, the king of Wakanda, is also known as what superhero?",
+    "answer": "Black Panther",
+    "choices": ["Black Panther", "Iron Fist", "Sub-mariner", "Kazar"]
+  },
+  {
+    "question": "What building served as the original headquarters for the Fantastic Four?",
+    "answer": "Baxter Building",
+    "choices": ["Stark Tower", "Titans Tower", "Baxter Building", "Four Freedoms Plaza"]
+  },
+  {
+    "question": "Who is Skaar?",
+    "answer": "Son of Hulk",
+    "choices": ["Son of Tarzan", "Son of Wolverine", "Son of Hulk", "Son of Thor"]
+  },
+  {
+    "question": "Which of the following heroes was NOT a member of the magically powered Sentinels of Magic?",
+    "answer": "Doctor Strange",
+    "choices": ["Doctor Strange", "Raven", "Zatanna", "Doctor Fate"]
+  },
+  {
+    "question": "Which Green Lantern came first?",
+    "answer": "Alan Scott",
+    "choices": ["Alan Scott", "Hal Jordan", "John Stewart", "Guy Gardner"]
+  },
+  {
+    "question": "Who once served as Tony Stark's personal assistant?",
+    "answer": "Mary Jane Watson",
+    "choices": ["Carol Danvers", "Mary Jane Watson", "Jane Foster", "Jean Grey"]
+  },
+  {
+    "question": "Who is the Scarlet Witch's twin brother?",
+    "answer": "Quicksilver",
+    "choices": ["Quicksilver", "Magneto", "Doctor Strange", "Wonder Man"]
+  },
+  {
+    "question": "What character teamed up with a different hero in almost every issue of The Brave and the Bold?",
+    "answer": "Batman",
+    "choices": ["Batman", "Superman", "Spiderman", "Captain America"]
+  },
+  {
+    "question": "What member of the Inhumans did Johnny Storm date?",
+    "answer": "Crystal",
+    "choices": ["Luna Maximoff", "Sapphiras", "Medusa", "Crystal"]
+  },
+  {
+    "question": "What superhero team has She-Hulk NOT been a member of?",
+    "answer": "Guardians of the Galaxy",
+    "choices": ["Guardians of the Galaxy", "S.H.I.E.L.D.", "Avengers", "Fantastic Four"]
+  },
+  {
+    "question": "What is the name of Doctor Strange's home in Greenwich Village?",
+    "answer": "Sanctum Sanctorum",
+    "choices": ["Salem Center", "Darkmoor", "The Bowery", "Sanctum Sanctorum"]
+  },
+  {
+    "question": "What color was the Hulk when he was originally introduced?",
+    "answer": "Grey",
+    "choices": ["Green", "Red", "Grey", "Purple"]
+  },
+  {
+    "question": "Captain Leonard McKenzie fathered what superhero?",
+    "answer": "Namor",
+    "choices": ["Namor", "The Punisher", "Captain America", "War Machine"]
+  },
+  {
+    "question": "Which of the following heroes was NOT a founding member of the X-Men?",
+    "answer": "Wolverine",
+    "choices": ["Marvel Girl", "Beast", "Iceman", "Wolverine"]
+  },
+  {
+    "question": "What is She-Hulk's day job?",
+    "answer": "Lawyer",
+    "choices": ["Dancer", "Scientist", "Lawyer", "Engineer"]
+  },
+  {
+    "question": "What newspaper does Peter Parker work for?",
+    "answer": "The Daily Bugle",
+    "choices": ["The Daily Planet", "The Daily Bugle", "The Daily Globe", "The Daily News"]
+  },
+  {
+    "question": "Where is Moira MacTaggert's mutant research lab located?",
+    "answer": "Muir Island",
+    "choices": ["Muir Island", "Darkmoor", "Salem Center", "Genosha"]
+  },
+  {
+    "question": "Patrick O'Brian is the secret identity of what superhero?",
+    "answer": "Plastic Man",
+    "choices": ["Captain Atom", "Deadman", "Phantom Stranger", "Plastic Man"]
+  },
+  {
+    "question": "What supervillain is the half-brother of the Chameleon?",
+    "answer": "Kraven The Hunter",
+    "choices": ["Sandman", "Shocker", "Electro", "Kraven The Hunter"]
+  },
+  {
+    "question": "What is Kitty Pryde's superpower?",
+    "answer": "She can walk through walls",
+    "choices": [
+      "She can walk through walls",
+      "She has a way with words",
+      "She can transform into a wolf",
+      "She has probability-altering powers"
+    ]
+  },
+  {
+    "question": "What does the K in MODOK stand for?",
+    "answer": "Killing",
+    "choices": ["King", "Killing", "Knowledge", "Knight"]
+  },
+  {
+    "question": "Who was Reed Richards' roommate in college?",
+    "answer": "Ben Grimm",
+    "choices": ["Tony Stark", "Johnny Storm", "Victor Von Doom", "Ben Grimm"]
+  },
+  {
+    "question": "Who created the Vision?",
+    "answer": "Ultron",
+    "choices": ["Ultron", "Reed Richards", "Hank Pym", "Tony Stark"]
+  },
+  {
+    "question": "Who is Bruce Banner's cousin?",
+    "answer": "Jessica Walters",
+    "choices": ["Jessica Drew", "Jessica Walters", "Carol Danvers", "Greer Nelson"]
+  },
+  {
+    "question": "What is the name of Kingpin's skyscraper?",
+    "answer": "Fisk Tower",
+    "choices": ["Oscorp Tower", "Fisk Tower", "Stark Tower", "Baxter Building"]
+  },
+  {
+    "question": "What witch served as nanny to Franklin Richards, the son of Mister Fantastic and Invisible Woman?",
+    "answer": "Agatha Harkness",
+    "choices": ["Clea Strange", "Agatha Harkness", "Wanda Maximoff", "Amanda Sefton"]
+  },
+  {
+    "question": "Which of the following superteams is based in Canada?",
+    "answer": "Alpha Flight",
+    "choices": ["Alpha Flight", "Defenders", "Squadron Supreme", "Ultraforce"]
+  },
+  {
+    "question": "Which of the following does Batman NOT carry in his utility belt?",
+    "answer": "Reading Glasses",
+    "choices": ["Reading Glasses", "Shark Repellent", "A Crayon", "A Backup Costume"]
+  },
+  {
+    "question": "What is Green Lantern's weakness?",
+    "answer": "The Color Yellow",
+    "choices": ["The Color Yellow", "Women", "Darkness", "Coldness"]
+  },
+  {
+    "question": "Which member of the Green Lantern Corps is essentially a giant head with arms and legs?",
+    "answer": "Galius Zed",
+    "choices": ["Abin Sur", "Larvox", "CH'P", "Galius Zed"]
+  },
+  {
+    "question": "What teenager did Bruce Banner save from a gamma bomb?",
+    "answer": "Rick Jones",
+    "choices": ["Bucky Barnes", "Sam Wilson", "Rick Jones", "Foggy Nelson"]
+  },
+  {
+    "question": "What was the Super Friends headquarters called?",
+    "answer": "Hall of Justice",
+    "choices": ["Justice Tower", "Watchtower", "Justice League Satellite", "Hall of Justice"]
+  },
+  {
+    "question": "What full-size dinosaur does Batman keep in the Batcave?",
+    "answer": "T-Rex",
+    "choices": ["Triceratops", "Raptor", "Brontosaurus", "T-Rex"]
+  },
+  {
+    "question": "What trophy from the Batcave first appeared in World's Finest #30?",
+    "answer": "Giant Penny",
+    "choices": ["Giant Penny", "Jason Todd's Robin Costume", "Mr. Freeze's Freeze Gun", "T-Rex"]
+  },
+  {
+    "question": "What U. S. President appears in The Amazing Spider-Man #583?",
+    "answer": "Barack Obama",
+    "choices": ["Barack Obama", "Bill Clinton", "Thomas Jefferson", "George W. Bush"]
+  },
+  {
+    "question": "What U. S. President appears in The Amazing Spider-Man #583?",
+    "answer": "Barack Obama",
+    "choices": ["Barack Obama", "Bill Clinton", "Thomas Jefferson", "George W. Bush"]
+  },
+  {
+    "question": "Which character was NOT a founding member of the Defenders?",
+    "answer": "Luke Cage",
+    "choices": ["Namor", "Luke Cage", "Doctor Strange", "Hulk"]
+  },
+  {
+    "question": "What color is Robin's cape?",
+    "answer": "Yellow",
+    "choices": ["Black", "Yellow", "Red", "Green"]
+  },
+  {
+    "question": "What superhero has a girlfriend named Beverly Switzler?",
+    "answer": "Howard The Duck",
+    "choices": ["Howard The Duck", "Wonder Woman", "Iron Man", "Batman"]
+  },
+  {
+    "question": "Which incarnation of the Black Knight was a longtime member of the Avengers?",
+    "answer": "Dane Whitman",
+    "choices": ["Sir Percy of Scandinavia", "Dane Whitman", "Augustine Du Lac", "Nathan Garrett"]
+  },
+  {
+    "question": "What hero is a vagrant in the real world, but a powerful hero in the Outback?",
+    "answer": "The Maxx",
+    "choices": ["The Savage Dragon", "The Maxx", "Spawn", "Youngblood"]
+  },
+  {
+    "question": "Who is Superman's son?",
+    "answer": "Jon Kent",
+    "choices": ["Jon Kent", "Jim Kent", "Jak Kent", "Jud Kent"]
+  },
+  {
+    "question": "What member of the Avengers is brother to the supervillain Thanos??",
+    "answer": "Starfox",
+    "choices": ["Starfox", "Warlock", "Thor", "Captain Marvel"]
+  },
+  {
+    "question": "What member of the Avengers enslaved the entire planet of Ba-Bani?",
+    "answer": "Moondragon",
+    "choices": ["Thor", "The Silver Surfer", "Moondragon", "Mantis"]
+  },
+  {
+    "question": "What character marries Luke Cage?",
+    "answer": "Jessica Jones",
+    "choices": ["Natasha Romanoff", "Misty Knight", "Colleen Wing", "Jessica Jones"]
+  },
+  {
+    "question": "Who killed Elektra?",
+    "answer": "Bullseye",
+    "choices": ["Kingpin", "Typhoid Mary", "Bullseye", "Daredevil"]
+  },
+  {
+    "question": "Who is Norrin Radd??",
+    "answer": "The Silver Surfer",
+    "choices": ["Nova", "Red Tornado", "Hawkman", "The Silver Surfer"]
+  },
+  {
+    "question": "What Teen Titan has a demon father?",
+    "answer": "Raven",
+    "choices": ["Raven", "Terra", "Beast Boy", "Starfire"]
+  },
+  {
+    "question": "The mercenary anti-hero Lobo first appeared in what comic book?",
+    "answer": "Omega Men",
+    "choices": ["Teen Titans", "Omega Men", "Deadpool", "Adam Strange"]
+  },
+  {
+    "question": "What was the name of the Silver Surfer's lover?",
+    "answer": "Shalla-Bal",
+    "choices": ["Shalla Bal", "Frankie Raye", "Zenn-La", "S'Byll"]
+  },
+  {
+    "question": "What archeologist was teleported to the planet Rann through a Zeta-Beam?",
+    "answer": "Adam Strange",
+    "choices": ["Star-Lord", "Hawkman", "Adam Strange", "Warlock"]
+  },
+  {
+    "question": "Hyperion, Nighthawk, and the Whizzer are all members of what superhero team",
+    "answer": "Squadron Supreme",
+    "choices": ["Inhumans", "Justice Society", "Omega Men", "Squadron Supreme"]
+  },
+  {
+    "question": "What superhero team can join together using the technology of a Mother Box to summon the powerful hero known as the Infinity-Man?",
+    "answer": "Forever People",
+    "choices": ["Infinity Inc.", "Secret Six", "Darkstars", "Forever People"]
+  },
+  {
+    "question": "What superhero is Big Barda married to?",
+    "answer": "Mister Miracle",
+    "choices": ["Mister Miracle", "Martian Manhunter", "Doctor Fate", "Blue Beetle"]
+  },
+  {
+    "question": "What superhero was a star quarterback at Gotham University?",
+    "answer": "Booster Gold",
+    "choices": ["Booster Gold", "Nightwing", "Blue Beetle", "Batman"]
+  },
+  {
+    "question": "Who was the female Yellowjacket?",
+    "answer": "Rita DeMara",
+    "choices": ["Cassie Lang", "Doris Zeul", "Rita DeMara", "Janet Van Dyne"]
+  },
+  {
+    "question": "What villain made the most appearances in the 1960s Batman TV series?",
+    "answer": "Joker",
+    "choices": ["Catwoman", "Riddler", "Penguin", "Joker"]
+  },
+  {
+    "question": "What is the Thing's catch phrase?",
+    "answer": "It's Clobbering Time!",
+    "choices": ["It's Clobbering Time!", "Oh My Stars and Garters!", "I Pity The Fool!", "Thing Smash!"]
+  },
+  {
+    "question": "Which Avenger was originally meant to be the bride of Ultron?",
+    "answer": "Jocasta",
+    "choices": ["Sersi", "Moondragon", "Tigra", "Jocasta"]
+  },
+  {
+    "question": "What was the name of the joint task force whose primary purpose was to capture or kill the Hulk?",
+    "answer": "Hulkbusters",
+    "choices": ["Hulkhunters", "Hulksmashers", "HulkSlayers", "Hulkbusters"]
+  },
+  {
+    "question": "Which Justice League villain is a caveman who gained immortality after being exposed to a meteorite?",
+    "answer": "Vandal Savage",
+    "choices": ["Simon Magus", "Solomon Grundy", "Gorilla Grodd", "Vandal Savage"]
+  }
+]
